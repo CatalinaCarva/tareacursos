@@ -1,0 +1,14 @@
+C:\Users\jonat\Desktop\examen 1\Programa\bin\Debug\net8.0\Programa.exe
+C:\Users\jonat\Desktop\examen 1\Programa\bin\Debug\net8.0\Programa.deps.json
+C:\Users\jonat\Desktop\examen 1\Programa\bin\Debug\net8.0\Programa.runtimeconfig.json
+C:\Users\jonat\Desktop\examen 1\Programa\bin\Debug\net8.0\Programa.dll
+C:\Users\jonat\Desktop\examen 1\Programa\bin\Debug\net8.0\Programa.pdb
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.AssemblyInfo.cs
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.dll
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\refint\Programa.dll
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.pdb
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\Programa.genruntimeconfig.cache
+C:\Users\jonat\Desktop\examen 1\Programa\obj\Debug\net8.0\ref\Programa.dll
